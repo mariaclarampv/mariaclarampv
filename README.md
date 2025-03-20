@@ -1,27 +1,43 @@
-Olá, eu sou a Maria Clara Vasques👋
+<div align="center">
+  <!-- Título de boas-vindas -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oranienbaum&weight=300&size=25&pause=1000&color=9614FF&background=2F18D300&multiline=true&repeat=false&width=500&height=60&lines=%F0%9F%9A%80Bem-vindo+ao+meu+GitHub!%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%92%9C+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <!-- GIF logo abaixo -->
+  <br>
+  <img src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif" alt="GIF" width="130" />
+  <br><br>
 
+  <!-- Descrição / História -->
+  <p>
+    💜 Apaixonada por <strong>Front-end</strong> e tudo que envolve <strong>CSS, HTML e JavaScript!</strong><br>
+    🎨 Transformo ideias em interfaces incríveis com <strong>Angular e React</strong>.<br>
+    📱 Explorando o universo do <strong>desenvolvimento web e mobile!</strong><br><br>
+    
+  💡 <strong>Sinta-se à vontade para explorar, contribuir e trocar ideias!</strong><br>
+  Juntos, podemos construir coisas incríveis! 🚀✨
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  ---
 
+  <!-- Tech Stack -->
+  <h3>🚀 <strong>Tech Stack</strong></h3>
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="45" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  </div>
+
+  ---
+
+  <!-- Onde me encontrar -->
+  <h3>🌐 <strong>Onde me encontrar</strong></h3>
+  <div>
+    <a href="#" target="_blank"><img src="https://www.instagram.com/mariacmpv_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  </div>
 </div>
-<br>
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=""><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
