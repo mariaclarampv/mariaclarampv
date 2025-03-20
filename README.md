@@ -9,7 +9,7 @@
 
   <!-- Descrição / História -->
   <p>
-    💜 Apaixonada por <strong>Front-end</strong> e tudo que envolve <strong>CSS, HTML e JavaScript!</strong><br>
+    💜 Apaixonada por <strong>Front-end</strong> e tudo que envolve <strong>HTML, CSS e Javascript!</strong><br>
     🎨 Transformo ideias em interfaces incríveis com <strong>Angular e React</strong>.<br>
     📱 Explorando o universo do <strong>desenvolvimento web e mobile!</strong><br><br>
     
